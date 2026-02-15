@@ -20,7 +20,7 @@ This repository documents the PHIL-MER Group's process in the building, configur
 
 The essential **RX888WSPRDaemon SDR** node is a low-cost, high-precision receiver designed for scientific data collection:
 
-* **SDR:** RX888 Software Defined Radio.
+* **SDR:** [RX888 Software Defined Radio](https://www.amazon.com/Receiver-Luminum-Industrial-Beautiful-1kHz%E2%80%9164Mhz/dp/B09FZW89L8)[Alt](https://opensourcesdrlab.com/products/rx888-mkii-16bit-sdr-receiver-radio-ltc2208-adc-upgrade-rx888-1)
 * **SDR Support:** [TAPR RX-888 Clock kit and thermal pad](https://tapr.org/product/rx888-clock-kit-and-thermal-pad/)
 * **Filter-Preamp:** [Turn Island Systems Low pass filter and preamp](https://turnislandsystems.com/product/filter-preamp-v1/)
 * **Computing:** HamSCI spec'd off-the-shelf Linux-based system - Ubuntu 24.04 Server LTE.
