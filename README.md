@@ -22,10 +22,10 @@ The essential **RX888WSPRDaemon SDR** node is a low-cost, high-precision receive
 
 * **SDR:** RX888 Software Defined Radio.
 * **SDR Support:** [TAPR RX-888 Clock kit and thermal pad](https://tapr.org/product/rx888-clock-kit-and-thermal-pad/)
-* **Filter-Preamp:** Turn Island Systems Low pass filter and preamp.
-* **Computing:** HamSCI spec'd fff-the-shelf Linux-based system - Ubuntu 24.04 Server LTE.
-* **Timing:** Leo Bodnar GPS-Disciplined Oscillator GPSDO + antenna for frequency stability.
-* **Integration:** High-quality SMA connection cables, hardware, low-noise power supply.
+* **Filter-Preamp:** [Turn Island Systems Low pass filter and preamp](https://turnislandsystems.com/product/filter-preamp-v1/)
+* **Computing:** HamSCI spec'd off-the-shelf Linux-based system - Ubuntu 24.04 Server LTE.
+* **Timing:** Leo Bodnar GPS-Disciplined Oscillator GPSDO + [antenna for frequency stability]
+* * **Integration:** High-quality SMA connection cables, hardware, low-noise power supply.
 * **Target:** Monitoring WWV frequency Doppler shift and WSPR signals.
 
 ### Internet Connectivity
