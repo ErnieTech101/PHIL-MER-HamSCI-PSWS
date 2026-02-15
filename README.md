@@ -14,6 +14,8 @@ This repository documents the build of a **Personal Space Weather Station (PSWS)
 
 The goal of the PSWS project is to create a geographically distributed, multi-instrument system for ground-based space environment measurements. Data from this node is aggregated into a central database for space science research, specifically for analyzing phenomena like **Traveling Ionospheric Disturbances (TIDs)**.
 
+This repository documents the PHIL-MER Group's process in the building, configuration, maintenance, operation and ongoing improvement of it's HamSCI PSWS located in maidenhead grid FN20lb.
+
 ### Technology Stack and Target Radio Sources
 
 The essential **RX888WSPRDaemon SDR** node is a low-cost, high-precision receiver designed for scientific data collection:
