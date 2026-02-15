@@ -1,5 +1,5 @@
 # PHIL-MER-HamSCI-PSWS
-The PHL-MER Group's HamSCI RX888WSPRDaemon SDR Personal Space Weather Station
+The PHL-MER (Philadelphia-Mercer County, NJ) Group's HamSCI RX888WSPRDaemon SDR Personal Space Weather Station.
 
 > **Note:** This will be an 'essential' PSWS build. It will not incorporate WSPR transmitter, VLF or Magnetometer modules
 ---
@@ -14,7 +14,7 @@ This repository documents the build of a **Personal Space Weather Station (PSWS)
 
 The goal of the PSWS project is to create a geographically distributed, multi-instrument system for ground-based space environment measurements. Data from this node is aggregated into a central database for space science research, specifically for analyzing phenomena like **Traveling Ionospheric Disturbances (TIDs)**.
 
-### Hardware Stack
+### Technology Stack and Target Radio Sources
 
 The essential **RX888WSPRDaemon SDR** node is a low-cost, high-precision receiver designed for scientific data collection:
 
