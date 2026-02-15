@@ -18,8 +18,10 @@ The goal of the PSWS project is to create a geographically distributed, multi-in
 The **RX888WSPRDaemon** node is a low-cost, high-precision receiver designed for scientific data collection:
 
 * **SDR:** RX888 Software Defined Radio.
-* **Computing:** Off-the-shelf Linux-based system.
-* **Timing:** Leo Bodnar GPS-Disciplined Oscillator (GPSDO) for frequency stability.
+* **SDR Support:** TAPR RX-888 Clock kit and thermal pad.
+* **Filter-Preamp:** Turn Island Systems Low pass filter and preamp.
+* **Computing:** Off-the-shelf Linux-based system - Ubuntu 24.04 Server LTE.
+* **Timing:** Leo Bodnar GPS-Disciplined Oscillator GPSDO + antenna for frequency stability.
 * **Target:** Monitoring WWV frequency Doppler shift and WSPR signals.
 
 ### 🔬 Research & Collaboration
@@ -33,4 +35,3 @@ Coordinated by the **University of Scranton**, this project supports a global ne
 
 ---
 
-Would you like me to help you draft a **"Hardware Requirements"** list or a **"Configuration"** section to help others replicate your build?
