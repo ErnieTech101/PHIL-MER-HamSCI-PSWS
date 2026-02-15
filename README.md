@@ -1,6 +1,7 @@
 # PHIL-MER-HamSCI-PSWS
 The PHL-MER Group's HamSCI RX888WSPRDaemon SDR Personal Space Weather Station
 
+> **Note:** This will be an 'essential' PSWS build. It will not incorporate WSPR transmitter, VLF or Magnetometer modules
 ---
 
 ## HamSCI RX888 WSPRDaemon SDR Station
