@@ -1,8 +1,6 @@
 # PHIL-MER-HamSCI-PSWS
 The PHL-MER Group's HamSCI RX888WSPRDaemon SDR Personal Space Weather Station
 
-Here is the updated, concise version for your `README.md`. I have adjusted the first paragraph to clarify the relationship with the DVRA as requested.
-
 ---
 
 ## HamSCI RX888 WSPRDaemon SDR Station
